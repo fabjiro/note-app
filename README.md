@@ -1,16 +1,10 @@
-# note
+# Note App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este es un proyecto flutter, es una plicacion a modo de aprendisaje de conceptos aplicando posibles cosas
+que se usen en empresas....
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Group 49](https://user-images.githubusercontent.com/61808329/209477564-6cdf5729-76e2-4194-b5f9-0bc12f5c6572.png)
